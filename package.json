@@ -23,6 +23,7 @@
         "@angular/router": "~8.2.13",
         "@ng-bootstrap/ng-bootstrap": "^5.1.4",
         "angular-bootstrap-md": "^8.7.0",
+        "angular-cli-ghpages": "^0.6.2",
         "bootstrap": "^3.3.7",
         "rxjs": "~6.4.0",
         "tslib": "^1.10.0",
